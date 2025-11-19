@@ -27,7 +27,7 @@ body {
 .container { width: min(100% - 2rem, var(--container)); margin-inline: auto; }
 section { padding: 4rem 0; scroll-margin-top: 72px; }
 h1, h2, h3 { font-family: 'Playfair Display', Georgia, 'Times New Roman', serif; line-height: 1.2; }
-h1 { font-size: clamp(2rem, 2rem + 2vw, 3.2rem); }
+h1 { font-size: clamp(3rem, 3rem + 3vw, 3rem); }
 h2 { font-size: clamp(1.6rem, 1.2rem + 1.2vw, 2.2rem); margin-bottom: 1rem; }
 h3 { font-size: 1.25rem; margin-top: 1rem; margin-bottom: .5rem; }
 p + p { margin-top: .8rem; }
